@@ -1,0 +1,3 @@
+[octoprint.plugin]
+lightcontrol_tplink = octoprint_lightcontrol_tplink
+
