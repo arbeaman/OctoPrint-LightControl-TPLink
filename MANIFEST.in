@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include octoprint_lightcontrol_tplink/templates *
+recursive-include octoprint_lightcontrol_tplink/translations *
+recursive-include octoprint_lightcontrol_tplink/static *
