@@ -26,8 +26,5 @@ Not supported:
   if it is a multi-outlet strip.
 - Select this plugin as the Switching and Sensing method in Light Control.
 
-## Support
-Help can be found at the [OctoPrint Community Forums](https://community.octoprint.org)
-
 ## Credits
 Based on [OctoPrint-PSUControl-TPLink](https://github.com/kantlivelong/OctoPrint-PSUControl-TPLink) by Shawn Bruce (kantlivelong), used under the AGPLv3.
