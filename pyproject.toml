@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "OctoPrint-LightControl-TPLink"
-version = "2.0.0"
-description = "Adds TPLink Smart Plug support to OctoPrint-LightControl as a sub-plugin."
+version = "2.0.1"
+description = "Adds support for TPLink smart plugs and power strips that speak the original **Kasa** protocol to OctoPrint-LightControl as a sub-plugin. **Tapo** devices, and plugs that only expose TP-Link's newer encrypted **KLAP** protocol are not supported."
 authors = [
     {name = "Alerick Beaman", email = "35195829+arbeaman@users.noreply.github.com"}
 ]
